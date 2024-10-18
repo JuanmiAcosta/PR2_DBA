@@ -1,6 +1,8 @@
 # NetBeans specific #
 nbproject/private/
+/build/
 nbproject/project.properties
+/dist/
 build/
 nbbuild/
 dist/
@@ -15,3 +17,4 @@ nb-configuration.xml
 *.jar
 *.war
 *.ear
+

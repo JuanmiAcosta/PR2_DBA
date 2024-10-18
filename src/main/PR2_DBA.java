@@ -18,7 +18,5 @@ public class PR2_DBA {
         mapa.imprimirMapa();
         
         System.out.println(mapa.getCasilla(3, 4));
-
     }
-
 }
